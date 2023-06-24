@@ -3,5 +3,3 @@ json
 folium
 pandas
 numpy
-time
-random
