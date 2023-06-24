@@ -5,7 +5,6 @@ import json
 import folium
 from folium import plugins
 import pandas as pd
-import numpy as np
 import time
 import random
 from streamlit_folium import folium_static
